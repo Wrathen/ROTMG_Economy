@@ -1,0 +1,14 @@
+c:\users\kullanici\source\repos\RotMG_Economy\RotMG_Economy\bin\Debug\RotMG_Economy.exe.config
+c:\users\kullanici\source\repos\RotMG_Economy\RotMG_Economy\bin\Debug\RotMG_Economy.exe
+c:\users\kullanici\source\repos\RotMG_Economy\RotMG_Economy\bin\Debug\RotMG_Economy.pdb
+c:\users\kullanici\source\repos\RotMG_Economy\RotMG_Economy\obj\Debug\RotMG_Economy.csprojResolveAssemblyReference.cache
+c:\users\kullanici\source\repos\RotMG_Economy\RotMG_Economy\obj\Debug\RotMG_Economy.Form1.resources
+c:\users\kullanici\source\repos\RotMG_Economy\RotMG_Economy\obj\Debug\RotMG_Economy.Properties.Resources.resources
+c:\users\kullanici\source\repos\RotMG_Economy\RotMG_Economy\obj\Debug\RotMG_Economy.csproj.GenerateResource.Cache
+c:\users\kullanici\source\repos\RotMG_Economy\RotMG_Economy\obj\Debug\RotMG_Economy.csproj.CoreCompileInputs.cache
+c:\users\kullanici\source\repos\RotMG_Economy\RotMG_Economy\obj\Debug\RotMG_Economy.exe
+c:\users\kullanici\source\repos\RotMG_Economy\RotMG_Economy\obj\Debug\RotMG_Economy.pdb
+C:\Users\Kullanici\source\repos\RotMG_Economy\RotMG_Economy\bin\Debug\RotMG_Economy.exe.manifest
+C:\Users\Kullanici\source\repos\RotMG_Economy\RotMG_Economy\bin\Debug\RotMG_Economy.application
+C:\Users\Kullanici\source\repos\RotMG_Economy\RotMG_Economy\obj\Debug\RotMG_Economy.exe.manifest
+C:\Users\Kullanici\source\repos\RotMG_Economy\RotMG_Economy\obj\Debug\RotMG_Economy.application
